@@ -1,5 +1,5 @@
 ---
-title: /
+title: Home
 layout: home
 permalink: /
 ---
@@ -7,4 +7,3 @@ permalink: /
 # Lucki, cookes! Let's have a tea break!
 
 Let's see what is in the [cabin](cabin).
-
